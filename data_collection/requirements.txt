@@ -1,0 +1,2 @@
+pokebase
+pymongo[srv]==4.1.1
